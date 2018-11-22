@@ -1,0 +1,23 @@
+{
+  "name": "pandora2spotify",
+  "version": "1.0.0",
+  "description": "Convert your Pandora liked songs into a Spotify playlist",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joegalley/pandora2spotify.git"
+  },
+  "keywords": [
+    "pandora",
+    "spotify"
+  ],
+  "author": "Joe Galley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joegalley/pandora2spotify/issues"
+  },
+  "homepage": "https://github.com/joegalley/pandora2spotify#readme"
+}
